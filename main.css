@@ -1,0 +1,8 @@
+body {
+    background: rgb(70, 70, 73);
+    background: radial-gradient(circle, rgb(201, 204, 218) 0%, rgba(0,0,0,1) 100%);
+  }
+
+#navbarr {
+    background-color: linear-gradient(rgba(194, 17, 17, 0.5));
+}
